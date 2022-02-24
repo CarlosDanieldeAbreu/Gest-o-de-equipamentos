@@ -1,1 +1,1 @@
-# Gest-o-de-equipamentos
+# Gestao-de-equipamentos
