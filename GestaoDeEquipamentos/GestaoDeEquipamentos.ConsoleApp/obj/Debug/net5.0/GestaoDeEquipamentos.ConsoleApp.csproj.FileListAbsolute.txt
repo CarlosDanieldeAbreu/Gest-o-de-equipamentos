@@ -1,0 +1,16 @@
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\bin\Debug\net5.0\GestaoDeEquipamentos.ConsoleApp.exe
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\bin\Debug\net5.0\GestaoDeEquipamentos.ConsoleApp.deps.json
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\bin\Debug\net5.0\GestaoDeEquipamentos.ConsoleApp.runtimeconfig.json
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\bin\Debug\net5.0\GestaoDeEquipamentos.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\bin\Debug\net5.0\GestaoDeEquipamentos.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\bin\Debug\net5.0\ref\GestaoDeEquipamentos.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\bin\Debug\net5.0\GestaoDeEquipamentos.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net5.0\GestaoDeEquipamentos.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net5.0\GestaoDeEquipamentos.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net5.0\GestaoDeEquipamentos.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net5.0\GestaoDeEquipamentos.ConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net5.0\GestaoDeEquipamentos.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net5.0\GestaoDeEquipamentos.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net5.0\ref\GestaoDeEquipamentos.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net5.0\GestaoDeEquipamentos.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net5.0\GestaoDeEquipamentos.ConsoleApp.genruntimeconfig.cache

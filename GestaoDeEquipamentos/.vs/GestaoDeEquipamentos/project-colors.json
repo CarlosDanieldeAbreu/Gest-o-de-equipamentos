@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "afcdb9b8-a174-4b84-be04-192782e83613": {
+      "ProjectGuid": "afcdb9b8-a174-4b84-be04-192782e83613",
+      "DisplayName": "GestaoDeEquipamentos.ConsoleApp",
+      "ColorIndex": 0
+    },
+    "2de3966f-9715-4d87-832e-4297ff4c6c8f": {
+      "ProjectGuid": "2de3966f-9715-4d87-832e-4297ff4c6c8f",
+      "DisplayName": "test.ConsoleApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

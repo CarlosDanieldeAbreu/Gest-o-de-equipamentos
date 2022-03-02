@@ -1,0 +1,16 @@
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\test.ConsoleApp\obj\Debug\net5.0\test.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\test.ConsoleApp\obj\Debug\net5.0\test.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\test.ConsoleApp\obj\Debug\net5.0\test.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\test.ConsoleApp\obj\Debug\net5.0\test.ConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\test.ConsoleApp\obj\Debug\net5.0\test.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\test.ConsoleApp\bin\Debug\net5.0\test.ConsoleApp.exe
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\test.ConsoleApp\bin\Debug\net5.0\test.ConsoleApp.deps.json
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\test.ConsoleApp\bin\Debug\net5.0\test.ConsoleApp.runtimeconfig.json
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\test.ConsoleApp\bin\Debug\net5.0\test.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\test.ConsoleApp\bin\Debug\net5.0\test.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\test.ConsoleApp\bin\Debug\net5.0\ref\test.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\test.ConsoleApp\bin\Debug\net5.0\test.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\test.ConsoleApp\obj\Debug\net5.0\test.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\test.ConsoleApp\obj\Debug\net5.0\ref\test.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\test.ConsoleApp\obj\Debug\net5.0\test.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\GestaoDeEquipamentos\test.ConsoleApp\obj\Debug\net5.0\test.ConsoleApp.genruntimeconfig.cache
