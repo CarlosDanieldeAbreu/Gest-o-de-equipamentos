@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos Daniel\\source\\repos\\Gestao-de-equipamentos\\GestaoDeEquipamentos\\GestaoDeEquipamentos.ConsoleApp\\GestaoDeEquipamentos.ConsoleApp.csproj": {}
+    "C:\\Users\\Carlos Daniel\\Source\\Repos\\Gestao-de-equipamentos\\GestaoDeEquipamentos\\GestaoDeEquipamentos.ConsoleApp\\GestaoDeEquipamentos.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos Daniel\\source\\repos\\Gestao-de-equipamentos\\GestaoDeEquipamentos\\GestaoDeEquipamentos.ConsoleApp\\GestaoDeEquipamentos.ConsoleApp.csproj": {
+    "C:\\Users\\Carlos Daniel\\Source\\Repos\\Gestao-de-equipamentos\\GestaoDeEquipamentos\\GestaoDeEquipamentos.ConsoleApp\\GestaoDeEquipamentos.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos Daniel\\source\\repos\\Gestao-de-equipamentos\\GestaoDeEquipamentos\\GestaoDeEquipamentos.ConsoleApp\\GestaoDeEquipamentos.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos Daniel\\Source\\Repos\\Gestao-de-equipamentos\\GestaoDeEquipamentos\\GestaoDeEquipamentos.ConsoleApp\\GestaoDeEquipamentos.ConsoleApp.csproj",
         "projectName": "GestaoDeEquipamentos.ConsoleApp",
-        "projectPath": "C:\\Users\\Carlos Daniel\\source\\repos\\Gestao-de-equipamentos\\GestaoDeEquipamentos\\GestaoDeEquipamentos.ConsoleApp\\GestaoDeEquipamentos.ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\Carlos Daniel\\Source\\Repos\\Gestao-de-equipamentos\\GestaoDeEquipamentos\\GestaoDeEquipamentos.ConsoleApp\\GestaoDeEquipamentos.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Carlos Daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos Daniel\\source\\repos\\Gestao-de-equipamentos\\GestaoDeEquipamentos\\GestaoDeEquipamentos.ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\Carlos Daniel\\Source\\Repos\\Gestao-de-equipamentos\\GestaoDeEquipamentos\\GestaoDeEquipamentos.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Carlos Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",

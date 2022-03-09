@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6a628c3-fa63-406c-8735-b2763d6d7472": {
+      "ProjectGuid": "b6a628c3-fa63-406c-8735-b2763d6d7472",
+      "DisplayName": "Lista_de_exercicios5.ConsoleApp",
+      "ColorIndex": 0
+    },
+    "ca4d3b91-6fa0-4dc7-bda3-0d0e0e625713": {
+      "ProjectGuid": "ca4d3b91-6fa0-4dc7-bda3-0d0e0e625713",
+      "DisplayName": "Ex1.ConsoleApp",
+      "ColorIndex": 1
+    },
+    "9b75f216-3fbf-4bac-99ff-f25e7db6ce2f": {
+      "ProjectGuid": "9b75f216-3fbf-4bac-99ff-f25e7db6ce2f",
+      "DisplayName": "Ex2.ConsoleApp",
+      "ColorIndex": 2
+    },
+    "97fcbc81-2212-4d53-8584-0db816928537": {
+      "ProjectGuid": "97fcbc81-2212-4d53-8584-0db816928537",
+      "DisplayName": "Ex3.ConsoleApp",
+      "ColorIndex": 3
+    },
+    "b5988af3-ba0d-4c08-97e0-94ca32c6416e": {
+      "ProjectGuid": "b5988af3-ba0d-4c08-97e0-94ca32c6416e",
+      "DisplayName": "Ex4.ConsoleApp",
+      "ColorIndex": 4
+    },
+    "85343af3-f542-4b4b-957d-341cab5984cd": {
+      "ProjectGuid": "85343af3-f542-4b4b-957d-341cab5984cd",
+      "DisplayName": "Ex5.ConsoleApp",
+      "ColorIndex": 5
+    },
+    "4b23dc5d-8b7c-4340-a7af-ee3414f65f61": {
+      "ProjectGuid": "4b23dc5d-8b7c-4340-a7af-ee3414f65f61",
+      "DisplayName": "Ex6.ConsoleApp",
+      "ColorIndex": 6
+    },
+    "0dd86696-f391-4200-8342-bef9e8fb2bb2": {
+      "ProjectGuid": "0dd86696-f391-4200-8342-bef9e8fb2bb2",
+      "DisplayName": "Ex7.ConsoleApp",
+      "ColorIndex": 7
+    },
+    "b33eb985-ca96-40ce-a6cd-20aa8700277f": {
+      "ProjectGuid": "b33eb985-ca96-40ce-a6cd-20aa8700277f",
+      "DisplayName": "Ex8.ConsoleApp",
+      "ColorIndex": 8
+    },
+    "5f526215-6d87-441b-b484-69f5ad54cab6": {
+      "ProjectGuid": "5f526215-6d87-441b-b484-69f5ad54cab6",
+      "DisplayName": "Ex9.ConsoleApp",
+      "ColorIndex": 9
+    },
+    "42b90cf8-2821-47fc-b2c7-9325bfeb54c3": {
+      "ProjectGuid": "42b90cf8-2821-47fc-b2c7-9325bfeb54c3",
+      "DisplayName": "Ex10.ConsoleApp",
+      "ColorIndex": 10
+    },
+    "c1941398-91cb-4556-855f-e21442c31ac7": {
+      "ProjectGuid": "c1941398-91cb-4556-855f-e21442c31ac7",
+      "DisplayName": "Exe10.ConsoleApp",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

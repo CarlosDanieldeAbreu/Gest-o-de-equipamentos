@@ -1,0 +1,15 @@
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\Lista_de_exercicios5\Ex8.ConsoleApp\bin\Debug\net5.0\Ex8.ConsoleApp.exe
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\Lista_de_exercicios5\Ex8.ConsoleApp\bin\Debug\net5.0\Ex8.ConsoleApp.deps.json
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\Lista_de_exercicios5\Ex8.ConsoleApp\bin\Debug\net5.0\Ex8.ConsoleApp.runtimeconfig.json
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\Lista_de_exercicios5\Ex8.ConsoleApp\bin\Debug\net5.0\Ex8.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\Lista_de_exercicios5\Ex8.ConsoleApp\bin\Debug\net5.0\Ex8.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\Lista_de_exercicios5\Ex8.ConsoleApp\bin\Debug\net5.0\ref\Ex8.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\Lista_de_exercicios5\Ex8.ConsoleApp\bin\Debug\net5.0\Ex8.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\Lista_de_exercicios5\Ex8.ConsoleApp\obj\Debug\net5.0\Ex8.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\Lista_de_exercicios5\Ex8.ConsoleApp\obj\Debug\net5.0\Ex8.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\Lista_de_exercicios5\Ex8.ConsoleApp\obj\Debug\net5.0\Ex8.ConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\Lista_de_exercicios5\Ex8.ConsoleApp\obj\Debug\net5.0\Ex8.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\Lista_de_exercicios5\Ex8.ConsoleApp\obj\Debug\net5.0\Ex8.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\Lista_de_exercicios5\Ex8.ConsoleApp\obj\Debug\net5.0\ref\Ex8.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\Lista_de_exercicios5\Ex8.ConsoleApp\obj\Debug\net5.0\Ex8.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Gestao-de-equipamentos\Lista_de_exercicios5\Ex8.ConsoleApp\obj\Debug\net5.0\Ex8.ConsoleApp.genruntimeconfig.cache
